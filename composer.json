@@ -11,6 +11,7 @@
     "require": {
         "php": "~5.3.3",
         "symfony/polyfill-php54": "^1",
-        "symfony/polyfill-php55": "^1"
+        "symfony/polyfill-php55": "^1",
+        "symfony/polyfill-php56": "^1"
     }
 }
