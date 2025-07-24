@@ -16,6 +16,7 @@
         "symfony/polyfill-php70": "^1",
         "symfony/polyfill-php71": "^1",
         "symfony/polyfill-php72": "^1",
-        "symfony/polyfill-php73": "^1"
+        "symfony/polyfill-php73": "^1",
+        "symfony/polyfill-php74": "^1"
     }
 }
