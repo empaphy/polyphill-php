@@ -9,8 +9,7 @@
         "wiki": "https://github.com/empaphy/polyphill-php/wiki"
     },
     "require": {
-        "php": "~7.2.0",
-        "symfony/polyfill-php73": "^1"
+        "php": "~7.3.0"
     },
     "conflicts": {
         "symfony/polyfill-php55": "<1.10.0"
@@ -21,6 +20,7 @@
         "symfony/polyfill-php56": "*",
         "symfony/polyfill-php70": "*",
         "symfony/polyfill-php71": "*",
-        "symfony/polyfill-php72": "*"
+        "symfony/polyfill-php72": "*",
+        "symfony/polyfill-php73": "*"
     }
 }
