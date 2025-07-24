@@ -16,7 +16,8 @@
         "symfony/polyfill-php80": "^1",
         "symfony/polyfill-php81": "^1",
         "symfony/polyfill-php82": "^1",
-        "symfony/polyfill-php83": "^1"
+        "symfony/polyfill-php83": "^1",
+        "symfony/polyfill-php84": "^1"
     },
     "conflicts": {
         "symfony/polyfill-php55": "<1.10.0"
